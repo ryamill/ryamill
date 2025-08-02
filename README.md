@@ -18,11 +18,8 @@ In an effort to share my experiences and learnings, I use this GitHub profile to
 [![cloud](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 <!-- [![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)](https://cloud.google.com/) -->
 
-### Editors
-[![tools](https://skillicons.dev/icons?i=vscode,neovim,nano,)](https://skillicons.dev)
-
 ### Tools
-[![tools](https://skillicons.dev/icons?i=github,git,gitlab,discord,vscode,neovim,mongodb,mysql,docker,kubernetes,linux,jenkins)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=github,git,gitlab,discord,vscode,neovim,mongodb,mysql,postgres,docker,kubernetes,jenkins,linux)](https://skillicons.dev)
 
 ### Languages
 [![languages](https://skillicons.dev/icons?i=py,js,go,nodejs,react,html,css)](https://skillicons.dev)
