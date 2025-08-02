@@ -18,15 +18,16 @@ In an effort to share my experiences and learnings, I use this GitHub profile to
 [![cloud](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 <!-- [![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)](https://cloud.google.com/) -->
 
+### Editors
+[![tools](https://skillicons.dev/icons?i=vscode,neovim,nano,)](https://skillicons.dev)
+
 ### Tools
-[![tools](https://skillicons.dev/icons?i=github,git,mongodb,mysql,argocd,k9s,jenkins)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=github,git,gitlab,discord,vscode,neovim,mongodb,mysql,docker,kubernetes,linux,jenkins)](https://skillicons.dev)
 
 ### Languages
 [![languages](https://skillicons.dev/icons?i=py,js,go,nodejs,react,html,css)](https://skillicons.dev)
 
-
 ## My Github Statistics
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryamill&theme=tokyonight&count_private=true&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=466"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=ryamill&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github"/></p>
 <p><img src="https://streak-stats.demolab.com/?user=ryamill&theme=tokyonight&count_private=true" /></p>
