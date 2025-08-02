@@ -14,25 +14,15 @@ In an effort to share my experiences and learnings, I use this GitHub profile to
 
 ## Technologies, Tools and Languages
 
-[![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)](https://cloud.google.com/)
+### Cloud
+[![cloud](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
+<!-- [![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)](https://cloud.google.com/) -->
 
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=blue)
+### Tools
+[![tools](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/OS-Arch-informational?style=for-the-badge&logo=archlinux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Zig-informational?style=for-the-badge&logo=zig&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
+### Languages
+[![languages](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
 
 ## My Github Statistics
