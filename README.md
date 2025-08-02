@@ -37,7 +37,6 @@ In an effort to share my experiences and learnings, I use this GitHub profile to
 
 ## My Github Statistics
 
-<p><img src="https://profile-counter.glitch.me/ryamill/count.svg"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryamill&theme=tokyonight&count_private=true&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=466"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=ryamill&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github"/></p>
 <p><img src="https://streak-stats.demolab.com/?user=ryamill&theme=tokyonight&count_private=true" /></p>
