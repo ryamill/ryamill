@@ -1,4 +1,4 @@
-# Hi there, welcome 👋
+# Hi there 👋
 
 ## About
 
@@ -19,10 +19,10 @@ In an effort to share my experiences and learnings, I use this GitHub profile to
 <!-- [![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)](https://cloud.google.com/) -->
 
 ### Tools
-[![tools](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=github,git,mongodb,mysql,argocd,k9s,jenkins)](https://skillicons.dev)
 
 ### Languages
-[![languages](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=py,js,go,nodejs,react,html,css)](https://skillicons.dev)
 
 
 ## My Github Statistics
